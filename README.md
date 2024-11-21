@@ -6,13 +6,13 @@
 <h4 align="center">To contact me:</h4>
 <div id="socials" align="center">
   <a href="https://t.me/GromovAS21">
-    <img src="https://georgievsk.ru/spb/onlayn-vitrina/Телеграм%20эмблема.jpg"  style="width: 50px; height: 50px" alt=Telegram"/>
+    <img src="https://podo-love.ru/userfiles/images/icon_telegram-min.png" style="width: 50px; height: 50px"/>
   </a>
   <a href="https://vk.com/seed1411">
-    <img src="https://p7.hiclipart.com/preview/844/407/603/social-media-russia-vkontakte-social-networking-service-social-media.jpg"  style="width: 50px; height: 50px" alt=VK"/>
+    <img src="https://static.tildacdn.com/tild6266-3366-4933-b934-663835633131/vkontakte.png" style="width: 50px; height: 50px"/>
   </a>
   <a href="https://instagram.com/seed1411">
-    <img src="https://avatars.mds.yandex.net/i?id=e05c4290f88dba5803dd9e7474b0e0865f6db2d5-4578672-images-thumbs&n=13"  style="width: 50px; height: 50px" alt=VK"/>
+    <img src="https://static.tildacdn.com/tild3063-3333-4337-b238-313861623930/INST.png" style="width: 50px; height: 50px"/>
   </a>
 </div>
 <h4 align="center">📩 GromovAS121@yandex.ru</h4>
