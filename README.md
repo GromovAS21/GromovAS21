@@ -4,6 +4,6 @@
 
 <div id="socials" align="center">
   <a href="https://t.me/GromovAS21">
-    <img src="https://bv-privat.ru/black/images/tild6634-6538-4139-b634-313365303531__-.gif"  style="max-width: 50px; max-height: 50px" alt=Telegram"/>
+    <img src="https://bv-privat.ru/black/images/tild6634-6538-4139-b634-313365303531__-.gif"  style="width: 50px; height: 50px" alt=Telegram"/>
   </a>
 </div>
