@@ -4,6 +4,6 @@
 
 <div id="socials" align="center">
   <a href="https://t.me/GromovAS21">
-    <img src="https://linku.su/uploads/block_thumbnail_images/759e0c12e6a0ad1ae14ac22d6a931d7c.png" alt=Telegram"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?/style=for-the-badge/logo=linkedin/logoColor=white" alt=Telegram"/>
   </a>
 </div>
