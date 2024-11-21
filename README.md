@@ -5,4 +5,5 @@
 <div id="socials" align="center">
   <a href="https://t.me/GromovAS21">
     <img src="https://linku.su/uploads/block_thumbnail_images/759e0c12e6a0ad1ae14ac22d6a931d7c.png" alt=Telegram"/>
+  </a>
 </div>
